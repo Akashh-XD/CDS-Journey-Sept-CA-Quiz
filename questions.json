@@ -1,0 +1,301 @@
+{
+  "config": {
+    "telegramChannel": "https://t.me/theUnKnown_World",
+    "workerEndpoint": "",
+    "defaultMarking": {
+      "correct": 1.0,
+      "incorrect": -0.33,
+      "unattempted": 0.0
+    }
+  },
+  "quizzes": [
+    {
+      "id": "sept-quick-1",
+      "title": "September Quick Quiz 1: Defence & Security",
+      "category": "Defence and Security",
+      "type": "Quick Quiz",
+      "questionsCount": 5,
+      "timeLimitMinutes": 3,
+      "difficulty": "Moderate",
+      "targetExams": [
+        "CDS",
+        "NDA",
+        "AFCAT"
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "Consider the following statements with regard to India's defence sector transformation (August 2026 report):\n1. The overall defence budget increased from ₹2.53 lakh crore in FY 2013-14 to ₹7.85 lakh crore in FY 2026-27.\n2. Foreign Direct Investment (FDI) cap in defence is 74% under the Automatic Route.\nWhich of the statements given above is/are correct?",
+          "options": [
+            "1 only",
+            "2 only",
+            "Both 1 and 2",
+            "Neither 1 nor 2"
+          ],
+          "correctIndex": 2,
+          "explanation": "Both statements are correct. India's defence budget showed a 3.1-fold growth reaching ₹7.85 lakh crore in FY 2026-27, and FDI is permitted up to 74% under the automatic route (up to 100% via Government route).",
+          "category": "Defence and Security",
+          "difficulty": "Moderate",
+          "examRelevance": "CDS / NDA",
+          "pageRef": "Page 4"
+        },
+        {
+          "id": "q2",
+          "text": "Exercise Khaan Quest 2026, focused on multilateral peacekeeping under Chapter VII of the UN Charter, was conducted at:",
+          "options": [
+            "Jodhpur, Rajasthan",
+            "Ulaanbaatar, Mongolia",
+            "Namangan, Uzbekistan",
+            "Visakhapatnam, India"
+          ],
+          "correctIndex": 1,
+          "explanation": "Exercise Khaan Quest 2026 was conducted at the Five Hills Training Area in Ulaanbaatar, Mongolia, with Indian Army contingents participating.",
+          "category": "Defence and Security",
+          "difficulty": "Easy",
+          "examRelevance": "AFCAT / SSC",
+          "pageRef": "Page 21"
+        },
+        {
+          "id": "q3",
+          "text": "The Pinaka Long Range Guided Rocket (LRGR) successfully flight-tested by DRDO at Chandipur achieved a user-defined minimum operational range of:",
+          "options": [
+            "30 km",
+            "40 km",
+            "50 km",
+            "60 km"
+          ],
+          "correctIndex": 3,
+          "explanation": "DRDO successfully flight-tested the Pinaka Long Range Guided Rocket (LRGR) at Integrated Test Range, Chandipur, Odisha, validating its 60 km minimum operational range with pinpoint accuracy.",
+          "category": "Defence and Security",
+          "difficulty": "Moderate",
+          "examRelevance": "CDS / NDA",
+          "pageRef": "Page 13"
+        },
+        {
+          "id": "q4",
+          "text": "Exercise Veer Guardian 2026 is a bilateral air exercise between the Indian Air Force and the air force of which country?",
+          "options": [
+            "France",
+            "Japan",
+            "United States",
+            "Vietnam"
+          ],
+          "correctIndex": 1,
+          "explanation": "Exercise Veer Guardian 2026 is conducted between the IAF and the Japan Air Self-Defense Force (JASDF) at Air Force Station Jodhpur, Rajasthan.",
+          "category": "Defence and Security",
+          "difficulty": "Easy",
+          "examRelevance": "AFCAT / CDS",
+          "pageRef": "Page 69"
+        },
+        {
+          "id": "q5",
+          "text": "Which Indian Navy ship participated in the 4th edition of Exercise Samudra Laksamana with the Royal Malaysian Navy at Lumut?",
+          "options": [
+            "INS Mysore",
+            "INS Trikand",
+            "INS Shivalik",
+            "INS Sahyadri"
+          ],
+          "correctIndex": 0,
+          "explanation": "INS Mysore participated in the 4th edition of Exercise Samudra Laksamana, the bilateral maritime exercise between the Indian Navy and Royal Malaysian Navy at Lumut, Malaysia.",
+          "category": "Defence and Security",
+          "difficulty": "Moderate",
+          "examRelevance": "NDA / CDS",
+          "pageRef": "Page 60"
+        }
+      ]
+    },
+    {
+      "id": "sept-topic-env",
+      "title": "Topic-wise Quiz: Environment & Ecology",
+      "category": "Environment and Ecology",
+      "type": "Topic-wise Quiz",
+      "questionsCount": 5,
+      "timeLimitMinutes": 5,
+      "difficulty": "Moderate",
+      "targetExams": [
+        "UPSC",
+        "State PCS",
+        "CDS"
+      ],
+      "questions": [
+        {
+          "id": "eq1",
+          "text": "India currently ranks where in Asia and globally under the Ramsar Convention for total wetland sites?",
+          "options": [
+            "Highest in Asia; 3rd globally",
+            "2nd in Asia; 1st globally",
+            "Highest in Asia; 1st globally",
+            "5th in Asia; 4th globally"
+          ],
+          "correctIndex": 0,
+          "explanation": "India has the highest number of Ramsar sites in Asia and ranks third globally after the UK and Mexico.",
+          "category": "Environment and Ecology",
+          "difficulty": "Moderate",
+          "examRelevance": "UPSC / State PCS",
+          "pageRef": "Page 20"
+        },
+        {
+          "id": "eq2",
+          "text": "Which two Indian cities joined the list of Wetland Accredited Cities in the world?",
+          "options": [
+            "Bengaluru and Mysuru",
+            "Indore and Udaipur",
+            "Varanasi and Haridwar",
+            "Pune and Nashik"
+          ],
+          "correctIndex": 1,
+          "explanation": "Indore (Madhya Pradesh) and Udaipur (Rajasthan) joined the prestigious list of 31 Wetland Accredited Cities globally.",
+          "category": "Environment and Ecology",
+          "difficulty": "Easy",
+          "examRelevance": "SSC / CDS",
+          "pageRef": "Page 22"
+        },
+        {
+          "id": "eq3",
+          "text": "The World Circular Economy Forum (WCEF) 2026 was hosted in which Indian city?",
+          "options": [
+            "New Delhi",
+            "Mumbai",
+            "Gandhinagar, Gujarat",
+            "Bengaluru"
+          ],
+          "correctIndex": 2,
+          "explanation": "India hosted the 10th edition of the World Circular Economy Forum 2026 at Mahatma Mandir, Gandhinagar, Gujarat, marking its first hosting in South Asia.",
+          "category": "Environment and Ecology",
+          "difficulty": "Moderate",
+          "examRelevance": "UPSC / CDS",
+          "pageRef": "Page 91"
+        },
+        {
+          "id": "eq4",
+          "text": "Patna Bird Sanctuary, newly added to the Ramsar list, is located in which district of Uttar Pradesh?",
+          "options": [
+            "Varanasi",
+            "Etah",
+            "Gorakhpur",
+            "Mathura"
+          ],
+          "correctIndex": 1,
+          "explanation": "Patna Bird Sanctuary is situated in the Etah district of Uttar Pradesh.",
+          "category": "Environment and Ecology",
+          "difficulty": "Difficult",
+          "examRelevance": "State PCS / UPSC",
+          "pageRef": "Page 20"
+        },
+        {
+          "id": "eq5",
+          "text": "Which international organisation co-organised the 4th Indo-German Environment Forum where the India-Germany Wetlands Declaration was signed?",
+          "options": [
+            "UNEP and IUCN",
+            "BMUKN and MoEFCC",
+            "WWF and World Bank",
+            "UNESCO and WRI"
+          ],
+          "correctIndex": 1,
+          "explanation": "The India-Germany Wetlands Declaration was signed during the 4th IGEF organised by India's MoEFCC and Germany's BMUKN.",
+          "category": "Environment and Ecology",
+          "difficulty": "Difficult",
+          "examRelevance": "UPSC",
+          "pageRef": "Page 104"
+        }
+      ]
+    },
+    {
+      "id": "sept-standard-econ",
+      "title": "Standard Quiz: Economy, Polity & International",
+      "category": "Economy and Banking",
+      "type": "Standard Quiz",
+      "questionsCount": 5,
+      "timeLimitMinutes": 10,
+      "difficulty": "Difficult",
+      "targetExams": [
+        "UPSC",
+        "CDS",
+        "CAPF"
+      ],
+      "questions": [
+        {
+          "id": "mq1",
+          "text": "India's real GDP grew by what percentage in the April–June quarter (Q1 FY27), maintaining its status as the fastest-growing major economy?",
+          "options": [
+            "6.9%",
+            "7.2%",
+            "7.8%",
+            "8.1%"
+          ],
+          "correctIndex": 2,
+          "explanation": "Real GDP grew by 7.8% in Q1 FY27, up from 6.9% in the same quarter last year.",
+          "category": "Economy and Banking",
+          "difficulty": "Moderate",
+          "examRelevance": "UPSC / CDS",
+          "pageRef": "Page 199"
+        },
+        {
+          "id": "mq2",
+          "text": "What does the term 'Orange Economy', featured in Union Budget 2026-27, primarily represent?",
+          "options": [
+            "Renewable solar and nuclear energy sectors",
+            "Economic activities driven by creativity, culture, and intellectual property",
+            "Mining and deep-sea mineral exploration",
+            "Organic farming and agricultural exports"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Orange Economy refers to activities driven by creativity, culture, ideas, and IP value (media, gaming, arts, animation, comics).",
+          "category": "Economy and Banking",
+          "difficulty": "Easy",
+          "examRelevance": "UPSC / SSC",
+          "pageRef": "Page 35"
+        },
+        {
+          "id": "mq3",
+          "text": "The Supreme Court launched 'Jan Soochna Seva' on Hindi Diwas (14 September 2026) primarily to:",
+          "options": [
+            "Provide live audio streaming of all court hearings",
+            "Deliver simplified information and summaries of important judgments in Hindi",
+            "Conduct digital voter registration for general elections",
+            "Provide legal aid for rural women"
+          ],
+          "correctIndex": 1,
+          "explanation": "Jan Soochna Seva provides concise Hindi summaries of selected important Supreme Court judgments in text, audio, and video formats.",
+          "category": "Indian Polity and Governance",
+          "difficulty": "Moderate",
+          "examRelevance": "UPSC / State PCS",
+          "pageRef": "Page 95"
+        },
+        {
+          "id": "mq4",
+          "text": "Which book won the prestigious International Booker Prize 2026?",
+          "options": [
+            "Tomb of Sand",
+            "Heart Lamp",
+            "Taiwan Travelogue",
+            "Shadow Ticket"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Taiwan Travelogue' by Yáng Shuāng-zi, translated by Lin King, won the International Booker Prize 2026.",
+          "category": "Awards and Honours",
+          "difficulty": "Easy",
+          "examRelevance": "AFCAT / SSC",
+          "pageRef": "Page 15"
+        },
+        {
+          "id": "mq5",
+          "text": "The 18th BRICS Summit 2026 was hosted under India's fourth BRICS Chairship at which venue?",
+          "options": [
+            "Mahatma Mandir, Gandhinagar",
+            "Bharat Mandapam, New Delhi",
+            "Yashobhoomi, Dwarka",
+            "Pragati Maidan, New Delhi"
+          ],
+          "correctIndex": 1,
+          "explanation": "India hosted the 18th BRICS Summit on September 12-13, 2026, at Bharat Mandapam, New Delhi, adopting the New Delhi Declaration.",
+          "category": "International Relations",
+          "difficulty": "Moderate",
+          "examRelevance": "UPSC / CDS",
+          "pageRef": "Page 176"
+        }
+      ]
+    }
+  ]
+}
